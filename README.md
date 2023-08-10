@@ -6,3 +6,6 @@ Hence, this code does the work by obtaining the location of the selected JPG fil
 
 It can also work for other applications of mass file operations, just have to make sure to change the extensions of the files from .JPG, .CR2 to the relevant ones in usage. 
 
+# The Guide is as follows:
+
+!![STEP 0](JPG-CR2-Extractor/Files/STEP_0.png)
