@@ -1,4 +1,4 @@
-# JPG-CR2-Extractpr
+# JPG-CR2-Extractor
 
 After a Day out with the Camera, I end up with a ton of pictures. After selecting the best pictures I delete the bad pictures. This is a time consuming process. However, the RAW pictures have to be filtered again, this process takes a long time. 
 
