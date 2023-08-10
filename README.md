@@ -8,4 +8,14 @@ It can also work for other applications of mass file operations, just have to ma
 
 # The Guide is as follows:
 
-!![STEP 0](Files/STEP_0.png)
+![STEP 0](Files/STEP_0.png)
+
+![STEP 1](Files/STEP_1.png)
+
+![STEP 2](Files/STEP_2.png)
+
+![STEP 3](Files/STEP_3.png)
+
+![STEP 4: Celebrate being an Engineer](Files/STEP_4.png)
+
+
