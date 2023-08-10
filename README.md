@@ -8,4 +8,4 @@ It can also work for other applications of mass file operations, just have to ma
 
 # The Guide is as follows:
 
-!![STEP 0](JPG-CR2-Extractor/Files/STEP_0.png)
+!![STEP 0](Files/STEP_0.png)
